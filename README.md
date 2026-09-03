@@ -10,7 +10,6 @@
 
 - 技术交流可以给我发邮件 **3556050019@qq.com**<
 
-![Anurag's GitHub stats](https://github-readme-stats.
-vercel.app/api?username=hanxfeng&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanxfeng&show_icons=true&theme=radical)
 
 
