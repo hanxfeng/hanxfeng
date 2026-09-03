@@ -7,7 +7,7 @@
 
 - 做的同人 bot，不过技术栈有些过时了 [Melantha]（https://github.com/hanxfeng/Melantha）
 
-- 我的博客： [www.hanxingfeng.asia]（www.hanxingfeng.asia）
+- 我的博客： [www.hanxingfeng.asia]
 
 - 技术交流可以给我发邮件 **3556050019@qq.com**<
 
