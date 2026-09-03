@@ -13,5 +13,3 @@
 
 
 
-<p><img align=“Center” src=“https://github-readme-streak-stats.herokuapp.com/?user=hanxfeng&” alt=“hanxfeng” /></p>
-
