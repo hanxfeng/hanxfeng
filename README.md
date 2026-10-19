@@ -3,11 +3,11 @@
 
 - 我的博客： www.hanxingfeng.asia
 
-- 博客源码 [blog]（https://github.com/hanxfeng/blog）
+- 博客源码 [blog] https://github.com/hanxfeng/blog
 
-- 做的同人小桌宠 [Melantha_Desktop_Pet]（https://github.com/hanxfeng/Melantha_Desktop_Pet）
+- 做的同人小桌宠 [Melantha_Desktop_Pet] https://github.com/hanxfeng/Melantha_Desktop_Pet
 
-- 做的同人 bot，不过技术栈有些过时了 [Melantha]（https://github.com/hanxfeng/Melantha）
+- 做的同人 bot，不过技术栈有些过时了 [Melantha] https://github.com/hanxfeng/Melantha
 
 - 技术交流可以给我发邮件 **3556050019@qq.com**<
 
